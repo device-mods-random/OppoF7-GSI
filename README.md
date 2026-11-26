@@ -4,7 +4,7 @@ Guide to install a gsi on oppo f7 cph 1819(This case android 12 ponces pixel exp
 ⚠️!!Important Disclaimer!!⚠️
 1. I am not responsible for damage of any of your devices.
 2. Follow at your own risk!
-3. Note unlocking the bootloader erased your data so make sure you back up.
+3. Note unlocking the bootloader erases your data so make sure you back up.
 
 ℹ️Important requirements:
 1. The oppo F7 (cph 1819 the 1821 could work but not sure).
