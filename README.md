@@ -12,3 +12,5 @@ Guide to install a gsi on oppo f7 cph 1819(This case android 12 ponces pixel exp
 (Read each step carefully and don't miss a single step as it could result in a brick soft or hard!
 Credits:- Alberto Ponces(GitHub.com/ponces) for the GSI and me(for flashing guide and vbmeta generation).
 ⭐ The steps: (Will add them after i do this to my device)
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
